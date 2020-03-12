@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=IC OUT -2
+Added Net: Name=NetC21_1

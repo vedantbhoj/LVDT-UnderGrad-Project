@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=POWER NewDesignator=PWR 7805
+Change Net Name : Old Net Name=NetPOWER_1 New Net Name=NetPWR 7805_1
+Added Room: Name=18F4520SCH - Copy

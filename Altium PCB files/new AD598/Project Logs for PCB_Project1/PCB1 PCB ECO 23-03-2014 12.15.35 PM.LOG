@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=IC OUT-2
+Added Pin To Net: NetName=NetAD598AD_20 Pin=LVDT op-2
+Added Room: Name=Sheet2

@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap2 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap2 New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=C1 Old Footprint=CAPR5-4X5 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C2 Old Footprint=CAPR5-4X5 New Footprint=RB7.6-15
+Change Component Comment : Designator=C1 Old Comment=Cap1 New Comment=Cap Pol1
+Change Component Comment : Designator=C2 Old Comment=Cap3 New Comment=Cap Pol1
+Added Room: Name=Sheet1

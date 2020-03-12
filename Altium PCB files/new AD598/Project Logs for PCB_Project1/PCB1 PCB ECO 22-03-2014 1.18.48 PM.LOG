@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=IC OUT-1
+Removed Pin From Net: NetName=NetAD598AD_16 Pin=IC OUT-2
+Removed Member From Class: ClassName=Sheet2 Member=IC OUT
+Added Component: Designator=IC OUT (HDR1X3)
+Added Pin To Net: NetName=NetAD598AD_16 Pin=IC OUT -1
+Added Pin To Net: NetName=NetAD598AD_17 Pin=IC OUT -3
+Added Member To Class: ClassName=Sheet2 Member=Component IC OUT  Header 3

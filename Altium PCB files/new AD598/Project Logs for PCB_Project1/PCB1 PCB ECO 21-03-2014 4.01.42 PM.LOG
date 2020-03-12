@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetAD598AD_16 Pin=IC o/p-2
+Removed Member From Class: ClassName=Sheet2 Member=IC o/p
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=RL(AXIAL-0.3)
+Added Pin To Net: NetName=NetC11_1 Pin=AD598AD-17
+Added Pin To Net: NetName=NetC11_1 Pin=P?-1
+Added Pin To Net: NetName=NetAD598AD_16 Pin=P?-2
+Added Pin To Net: NetName=NetAD598AD_16 Pin=RL-1
+Added Pin To Net: NetName=NetC11_1 Pin=RL-2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetAD598AD_17
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component RL 
+Added Room: Name=Sheet2

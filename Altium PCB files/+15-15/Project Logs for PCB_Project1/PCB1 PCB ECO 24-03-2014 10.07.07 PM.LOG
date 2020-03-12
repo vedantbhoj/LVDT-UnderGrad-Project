@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=Pwr OP-1
+Removed Pin From Net: NetName=GND Pin=Pwr OP-3
+Removed Pin From Net: NetName=GND Pin=Pwr OP-4
+Removed Pin From Net: NetName=NetC6_2 Pin=Pwr OP-6
+Removed Pin From Net: NetName=NetBridge IC_4 Pin=TX i/p-1
+Removed Pin From Net: NetName=GND Pin=TX i/p-3
+Removed Pin From Net: NetName=GND Pin=TX i/p-4
+Removed Pin From Net: NetName=NetBridge IC_2 Pin=TX i/p-6
+Removed Member From Class: ClassName=Sheet1 Member=Pwr OP
+Removed Member From Class: ClassName=Sheet1 Member=TX i/p
+Added Component: Designator=OUTPUT(HDR1X5)
+Added Component: Designator=TX IP(HDR1X5)
+Added Pin To Net: NetName=NetC5_1 Pin=OUTPUT-1
+Added Pin To Net: NetName=GND Pin=OUTPUT-3
+Added Pin To Net: NetName=NetC6_2 Pin=OUTPUT-5
+Added Pin To Net: NetName=NetBridge IC_4 Pin=TX IP-1
+Added Pin To Net: NetName=GND Pin=TX IP-3
+Added Pin To Net: NetName=NetBridge IC_2 Pin=TX IP-5
+Added Member To Class: ClassName=Sheet1 Member=Component OUTPUT Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component TX IP Header 5
+Added Room: Name=Sheet1

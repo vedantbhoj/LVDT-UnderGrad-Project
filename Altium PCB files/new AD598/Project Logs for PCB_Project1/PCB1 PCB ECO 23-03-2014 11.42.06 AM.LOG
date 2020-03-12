@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=IC OUT -2
+Removed Pin From Net: NetName=NetAD598AD_2 Pin=LVDT i/p-1
+Removed Pin From Net: NetName=NetAD598AD_3 Pin=LVDT i/p-2
+Removed Pin From Net: NetName=NetAD598AD_10 Pin=LVDT o/p-1
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=LVDT o/p-2
+Removed Pin From Net: NetName=NetAD598AD_11 Pin=LVDT o/p-3
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=SOURCE-1
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=SOURCE-2
+Removed Pin From Net: NetName=NetAD598AD_1 Pin=SOURCE-3
+Removed Member From Class: ClassName=Sheet2 Member=LVDT i/p
+Removed Member From Class: ClassName=Sheet2 Member=LVDT o/p
+Removed Member From Class: ClassName=Sheet2 Member=SOURCE
+Change Component Designator: OldDesignator=IC OUT  NewDesignator=IC OUT
+Added Component: Designator=IC i/p(HDR1X6)
+Added Component: Designator=Lvdt ip(HDR1X3)
+Added Component: Designator=LVDT op(HDR1X6)
+Added Pin To Net: NetName=NetAD598AD_20 Pin=IC i/p-1
+Added Pin To Net: NetName=NetAD598AD_17 Pin=IC i/p-3
+Added Pin To Net: NetName=NetAD598AD_17 Pin=IC i/p-4
+Added Pin To Net: NetName=NetAD598AD_1 Pin=IC i/p-6
+Added Pin To Net: NetName=NetAD598AD_2 Pin=Lvdt ip-1
+Added Pin To Net: NetName=NetAD598AD_3 Pin=Lvdt ip-3
+Added Pin To Net: NetName=NetAD598AD_10 Pin=LVDT op-1
+Added Pin To Net: NetName=NetAD598AD_17 Pin=LVDT op-3
+Added Pin To Net: NetName=NetAD598AD_17 Pin=LVDT op-4
+Added Pin To Net: NetName=NetAD598AD_11 Pin=LVDT op-6
+Added Member To Class: ClassName=Sheet2 Member=Component IC i/p Header 6
+Added Member To Class: ClassName=Sheet2 Member=Component IC OUT Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component Lvdt ip Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component LVDT op Header 6
+Added Room: Name=Sheet2

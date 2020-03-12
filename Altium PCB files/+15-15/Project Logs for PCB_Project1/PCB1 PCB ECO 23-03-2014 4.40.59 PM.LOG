@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=NetBridge IC_3 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=NetBridge IC_1 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=NetBridge IC_2 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=NetBridge IC_4 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Member From Class: ClassName=Sheet1 Member=LED1
+Removed Member From Class: ClassName=Sheet1 Member=LED2
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap2 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap2 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap2 New DesignItemId=Cap
+Change Component Footprint: Designator=C4 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C5 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C6 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.3
+Change Component Comment : Designator=R2 Old Comment=7.12 New Comment=res
+Change Component Comment : Designator=R4 Old Comment=17 New Comment=res
+Change Component Comment : Designator=C5 Old Comment=Cap2 New Comment=Cap
+Change Component Comment : Designator=C6 Old Comment=Cap2 New Comment=Cap
+Change Component Comment : Designator=C4 Old Comment=Cap4 New Comment=Cap
+Change Component Designator: OldDesignator=c3 NewDesignator=C2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C7(CAPR5-4X5)
+Added Component: Designator=C8(CAPR5-4X5)
+Added Component: Designator=Pwr OP(HDR1X6)
+Added Component: Designator=TX i/p(HDR1X6)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetBridge IC_1 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetBridge IC_3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=Pwr OP-3
+Added Pin To Net: NetName=GND Pin=Pwr OP-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetBridge IC_4 Pin=TX i/p-1
+Added Pin To Net: NetName=GND Pin=TX i/p-3
+Added Pin To Net: NetName=GND Pin=TX i/p-4
+Added Pin To Net: NetName=NetBridge IC_2 Pin=TX i/p-6
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=Pwr OP-1
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C8-1
+Added Pin To Net: NetName=NetC6_2 Pin=Pwr OP-6
+Added Pin To Net: NetName=NetC6_2 Pin=R2-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-3
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap4
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Cap4
+Added Member To Class: ClassName=Sheet1 Member=Component Pwr OP Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component TX i/p Header 6
+Added Room: Name=Sheet1

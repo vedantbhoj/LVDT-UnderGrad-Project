@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=IC i/p-1
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=IC i/p-3
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=IC i/p-4
+Removed Pin From Net: NetName=NetAD598AD_1 Pin=IC i/p-6
+Removed Member From Class: ClassName=Sheet2 Member=IC i/p
+Added Component: Designator=J?(PIN1)
+Added Component: Designator=J?(PIN1)
+Added Component: Designator=J?(PIN1)
+Added Pin To Net: NetName=NetAD598AD_1 Pin=J?-1
+Added Pin To Net: NetName=NetAD598AD_17 Pin=J?-1
+Added Pin To Net: NetName=NetAD598AD_20 Pin=J?-1
+Added Member To Class: ClassName=Sheet2 Member=Component J? Socket
+Added Room: Name=Sheet2

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetAD598AD_2 Pin=Lvdt ip-1
+Removed Pin From Net: NetName=NetAD598AD_3 Pin=Lvdt ip-3
+Removed Pin From Net: NetName=NetAD598AD_10 Pin=LVDT op-1
+Removed Pin From Net: NetName=NetAD598AD_20 Pin=LVDT op-2
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=LVDT op-3
+Removed Pin From Net: NetName=NetAD598AD_17 Pin=LVDT op-4
+Removed Pin From Net: NetName=NetAD598AD_11 Pin=LVDT op-6
+Removed Member From Class: ClassName=Sheet2 Member=Lvdt ip
+Removed Member From Class: ClassName=Sheet2 Member=LVDT op
+Added Component: Designator=CMN(PIN1)
+Added Component: Designator=EXC1(PIN1)
+Added Component: Designator=EXC2(PIN1)
+Added Component: Designator=VA(PIN1)
+Added Component: Designator=VB(PIN1)
+Added Pin To Net: NetName=NetAD598AD_17 Pin=CMN-1
+Added Pin To Net: NetName=NetAD598AD_2 Pin=EXC1-1
+Added Pin To Net: NetName=NetAD598AD_3 Pin=EXC2-1
+Added Pin To Net: NetName=NetAD598AD_11 Pin=VA-1
+Added Pin To Net: NetName=NetAD598AD_10 Pin=VB-1
+Added Member To Class: ClassName=Sheet2 Member=Component CMN Socket
+Added Member To Class: ClassName=Sheet2 Member=Component EXC1 Socket
+Added Member To Class: ClassName=Sheet2 Member=Component EXC2 Socket
+Added Member To Class: ClassName=Sheet2 Member=Component IC i/p Header 6
+Added Member To Class: ClassName=Sheet2 Member=Component VA Socket
+Added Member To Class: ClassName=Sheet2 Member=Component VB Socket
+Added Room: Name=Sheet2

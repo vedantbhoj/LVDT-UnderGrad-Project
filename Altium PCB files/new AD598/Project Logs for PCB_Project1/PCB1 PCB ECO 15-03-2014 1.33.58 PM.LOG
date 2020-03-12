@@ -1,0 +1,94 @@
+Added Component: Designator=AD598AD(D_20)
+Added Component: Designator=C1(CAPR5-4X5)
+Added Component: Designator=C2(CAPR5-4X5)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Component: Designator=C11(CAPR5-4X5)
+Added Component: Designator=C12(CAPR5-4X5)
+Added Component: Designator=C21(CAPR5-4X5)
+Added Component: Designator=C22(CAPR5-4X5)
+Added Component: Designator=IC o/p(HDR1X2)
+Added Component: Designator=LVDT i/p(HDR1X2)
+Added Component: Designator=LVDT o/p(HDR1X3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=SOURCE(HDR1X3)
+Added Pin To Net: NetName=NetAD598AD_1 Pin=AD598AD-1
+Added Pin To Net: NetName=NetAD598AD_1 Pin=C11-2
+Added Pin To Net: NetName=NetAD598AD_1 Pin=C12-2
+Added Pin To Net: NetName=NetAD598AD_1 Pin=R3-2
+Added Pin To Net: NetName=NetAD598AD_1 Pin=R4-2
+Added Pin To Net: NetName=NetAD598AD_1 Pin=SOURCE-3
+Added Net: Name=NetAD598AD_1
+Added Pin To Net: NetName=NetAD598AD_2 Pin=AD598AD-2
+Added Pin To Net: NetName=NetAD598AD_2 Pin=LVDT i/p-1
+Added Net: Name=NetAD598AD_2
+Added Pin To Net: NetName=NetAD598AD_3 Pin=AD598AD-3
+Added Pin To Net: NetName=NetAD598AD_3 Pin=LVDT i/p-2
+Added Net: Name=NetAD598AD_3
+Added Pin To Net: NetName=NetAD598AD_4 Pin=AD598AD-4
+Added Pin To Net: NetName=NetAD598AD_4 Pin=R1-1
+Added Net: Name=NetAD598AD_4
+Added Pin To Net: NetName=NetAD598AD_5 Pin=AD598AD-5
+Added Pin To Net: NetName=NetAD598AD_5 Pin=R1-2
+Added Net: Name=NetAD598AD_5
+Added Pin To Net: NetName=NetAD598AD_6 Pin=AD598AD-6
+Added Pin To Net: NetName=NetAD598AD_6 Pin=C1-1
+Added Net: Name=NetAD598AD_6
+Added Pin To Net: NetName=NetAD598AD_7 Pin=AD598AD-7
+Added Pin To Net: NetName=NetAD598AD_7 Pin=C1-2
+Added Net: Name=NetAD598AD_7
+Added Pin To Net: NetName=NetAD598AD_8 Pin=AD598AD-8
+Added Pin To Net: NetName=NetAD598AD_8 Pin=C2-1
+Added Net: Name=NetAD598AD_8
+Added Pin To Net: NetName=NetAD598AD_9 Pin=AD598AD-9
+Added Pin To Net: NetName=NetAD598AD_9 Pin=C2-2
+Added Net: Name=NetAD598AD_9
+Added Pin To Net: NetName=NetAD598AD_10 Pin=AD598AD-10
+Added Pin To Net: NetName=NetAD598AD_10 Pin=LVDT o/p-1
+Added Net: Name=NetAD598AD_10
+Added Pin To Net: NetName=NetAD598AD_11 Pin=AD598AD-11
+Added Pin To Net: NetName=NetAD598AD_11 Pin=LVDT o/p-3
+Added Net: Name=NetAD598AD_11
+Added Pin To Net: NetName=NetAD598AD_12 Pin=AD598AD-12
+Added Pin To Net: NetName=NetAD598AD_12 Pin=C3-2
+Added Net: Name=NetAD598AD_12
+Added Pin To Net: NetName=NetAD598AD_13 Pin=AD598AD-13
+Added Pin To Net: NetName=NetAD598AD_13 Pin=C3-1
+Added Net: Name=NetAD598AD_13
+Added Pin To Net: NetName=NetAD598AD_14 Pin=AD598AD-14
+Added Pin To Net: NetName=NetAD598AD_14 Pin=C4-2
+Added Net: Name=NetAD598AD_14
+Added Pin To Net: NetName=NetAD598AD_15 Pin=AD598AD-15
+Added Pin To Net: NetName=NetAD598AD_15 Pin=C4-1
+Added Pin To Net: NetName=NetAD598AD_15 Pin=R2-1
+Added Net: Name=NetAD598AD_15
+Added Pin To Net: NetName=NetAD598AD_16 Pin=AD598AD-16
+Added Pin To Net: NetName=NetAD598AD_16 Pin=IC o/p-2
+Added Pin To Net: NetName=NetAD598AD_16 Pin=R2-2
+Added Net: Name=NetAD598AD_16
+Added Pin To Net: NetName=NetAD598AD_17 Pin=AD598AD-17
+Added Pin To Net: NetName=NetAD598AD_17 Pin=IC o/p-1
+Added Net: Name=NetAD598AD_17
+Added Pin To Net: NetName=NetAD598AD_18 Pin=AD598AD-18
+Added Pin To Net: NetName=NetAD598AD_18 Pin=R3-1
+Added Net: Name=NetAD598AD_18
+Added Pin To Net: NetName=NetAD598AD_19 Pin=AD598AD-19
+Added Pin To Net: NetName=NetAD598AD_19 Pin=R4-1
+Added Net: Name=NetAD598AD_19
+Added Pin To Net: NetName=NetAD598AD_20 Pin=AD598AD-20
+Added Pin To Net: NetName=NetAD598AD_20 Pin=C21-1
+Added Pin To Net: NetName=NetAD598AD_20 Pin=C22-1
+Added Pin To Net: NetName=NetAD598AD_20 Pin=SOURCE-1
+Added Net: Name=NetAD598AD_20
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-1
+Added Pin To Net: NetName=NetC11_1 Pin=C21-2
+Added Pin To Net: NetName=NetC11_1 Pin=C22-2
+Added Pin To Net: NetName=NetC11_1 Pin=LVDT o/p-2
+Added Pin To Net: NetName=NetC11_1 Pin=SOURCE-2
+Added Net: Name=NetC11_1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
